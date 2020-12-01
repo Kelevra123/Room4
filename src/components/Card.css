@@ -1,0 +1,26 @@
+.qwer {
+    width: 30%;
+    height: 400px;
+    margin: 80px;
+    flex-grow: 1;
+    
+}
+.card {
+    background: linear-gradient(180deg, #000000 74.6%, #FFFFFF 90.68%);
+}
+.title {
+    color: white;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+a:link, a:active, a:visited {
+    color: black;
+}
+a:hover {
+    color: red;
+}
+.card-label:hover {
+    cursor: pointer;
+    color: red;
+}

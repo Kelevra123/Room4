@@ -1,0 +1,34 @@
+.top-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50%;
+    width: 100%;
+}
+.profile {
+    width: 30%;
+    margin-top: 2%;
+}
+.tags {
+    width: 30%;
+}
+.bio {
+    margin: 30px;
+    margin-top: 50px;
+    width: 30%;
+    height: 90%;
+}
+.label {
+    text-align: center;
+}
+.info {
+    font-size: 30px;
+
+}
+.bottom-block {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50%;
+}
